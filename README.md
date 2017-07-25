@@ -17,10 +17,10 @@ ____
 :gem:*Notes:*
 
     - P2P Clients are currently stored as separate files with hard-coded secret keys. 
-    It will be an exercise for the students to implement a simple CLI for secret key entry.
+    It will be an exercise for Tyler to implement a simple CLI for secret key entry.
 
     - No P2P communication currently exists. 
-    It will be an exercise for the students to design a simple transmit and verify message system.
+    It will be an exercise for Tyler to design a simple transmit and verify message system.
     
     - Rendevous currently references a local HTTP URL for initial testing. 
     Any production Rendevous Server communication should be via HTTPS.
